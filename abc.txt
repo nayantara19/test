@@ -1,2 +1,6 @@
 added this line from github
+<<<<<<< HEAD
 added second line from local desktop
+=======
+added second line from github itself
+>>>>>>> 3453fe200d9438c532e23f50f75a453f35d9aa74
